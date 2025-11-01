@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная страница Админ Понель</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            text-decoration: none;
+            list-style: none;
+            color: black;
+        }
+
+        .content{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-flow: column;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-shadow: 2px 3px 2px rgb(90, 90, 90);
+            width: 40%;
+            height: 20%;
+            background: #373636;
+            color: white;
+            border-radius: 10px;
+            padding: 10px;
+            text-align: center;
+            margin: 20px;
+        }
+
+        @media (max-width: 770px){
+            a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-shadow: 2px 3px 2px rgb(90, 90, 90);
+            width: 60%;
+            height: 40%;
+            background: #373636;
+            color: white;
+            border-radius: 10px;
+            padding: 10px;
+            text-align: center;
+            margin: 20px;
+        }
+        }
+
+        @media (max-width: 330px){
+            a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-shadow: 2px 3px 2px rgb(90, 90, 90);
+            width: 60%;
+            height: 20%;
+            background: #373636;
+            color: white;
+            border-radius: 10px;
+            padding: 10px;
+            text-align: center;
+            margin: 20px;
+        }
+        }
+
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <a href="./admin_ponels/admins.html">Перейти на Админ понель</a>
+        <a href="./site/index.html">Перейти к сайту теста</a>
+        <a href="./LoginRegistration/LoginRegistration.html">Регистрация на сайте</a>
+    </div>
+
+</body>
+
+</html>
