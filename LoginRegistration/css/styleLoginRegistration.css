@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(67, 67, 67);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    width: 350px;
+    height: 450px;
+    border: 2px solid white;
+    background-color: rgba(12, 31, 237, 0.471);
+    backdrop-filter: blur(10px);
+    /* размытость */
+    border-radius: 20px;
+    padding: 20px 40px;
+    color: white;
+}
+
+.login h1 {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.login input {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 15px;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    font-size: 1.1rem;
+    padding-left: 5px;
+    color: white;
+}
+
+.login input::placeholder {
+    color: rgba(219, 219, 219, 0.822);
+}
+
+.login input[type=checkbox] {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
+
+.login input:focus {
+    outline: none;
+    box-shadow: 0 0 10px rgb(86, 86, 86);
+    border-radius: 10px;
+}
+
+.login button {
+    width: 100%;
+    height: 40px;
+    border-radius: 15px;
+    background: white;
+    font-size: 1.2rem;
+    border: none;
+    box-shadow: 0 0 10px rgba(59, 59, 59, 0.702);
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.login .log {
+    text-align: center;
+}
+
+.login .log a {
+    text-decoration: none;
+    color: white;
+    font-size: 1.1rem;
+
+}
+
+.login .email1 {
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: calc(100% - 10px) center;
+    background-image: url(./image/envelope-regular.svg);
+}
+
+.login .pass {
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: calc(100% - 10px) center;
+    background-image: url(./image/lock-solid.svg);
+}
+
+
+.helloWelcome,
+.helloWelcomes {
+    font-size: 1.1rem;
+}
+
+.helloWelcomeFlex {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+/*  */
+
+
+
+.register {
+    display: none;
+    width: 350px;
+    height: 500px;
+    border: 2px solid white;
+    background-color: rgba(12, 151, 237, 0.7);
+    backdrop-filter: blur(10px);
+    /* размытость */
+    border-radius: 20px;
+    padding: 20px 40px;
+    color: white;
+}
+
+.register h1 {
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.register input {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 15px;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid white;
+    font-size: 1.1rem;
+    padding-left: 5px;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: calc(100% - 10px) center;
+    background-image: url(./image/user-regular.svg);
+}
+
+/*добавление стилей к подсказке input*/
+.register input::placeholder {
+    color: rgba(219, 219, 219, 0.822);
+}
+
+.register input[type=checkbox] {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
+
+.register input:focus {
+    outline: none;
+    /* внешняя линия input при фокусе */
+    box-shadow: 0 0 10px rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.register button {
+    width: 100%;
+    height: 40px;
+    border-radius: 15px;
+    background: white;
+    font-size: 1.2rem;
+    border: none;
+    box-shadow: 0 0 10px rgba(59, 59, 59, 0.702);
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.register a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.register .log {
+    text-align: center;
+}
+
+.register .name {
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: calc(100% - 10px) center;
+    background-image: url(./image/user-regular.svg);
+}
+
+.register .email {
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: calc(100% - 10px) center;
+    background-image: url(./image/envelope-regular.svg);
+}
+
+.register .pass {
+    background-repeat: no-repeat;
+    background-size: 20px;
+    background-position: calc(100% - 10px) center;
+    background-image: url(./image/lock-solid.svg);
+}
+
+.register form button a {
+    color: black;
+}
+
+
+@media (max-width: 275px) {
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: sans-serif;
+        /* font-size: 1rem; */
+    }
+}

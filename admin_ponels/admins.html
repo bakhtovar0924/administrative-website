@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/admins.css">
+    <script src="./scripts/admins.js" defer></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+        integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <div class="content">
+        <header>
+            <div class="navigator">
+                <div class="content-navigator">
+                    <div class="user-logo">
+                        <!--Логотип-->
+                        <button id="user-btn">
+                            <i class="fa-solid fa-user-tie logo"></i>
+                        </button>
+                    </div>
+                    <div class="dashboard">
+                        <!--Приборная понель -->
+                        <button id="wrench">
+                            <i class="fa-solid fa-wrench"></i>
+                        </button>
+                    </div>
+                    <div class="users">
+                        <!-- Пользователь -- -->
+                        <button id="users">
+                            <i class="fa-solid fa-users"></i>
+                        </button>
+                    </div>
+                    <div class="machine">
+                        <!-- Машина -- -->
+                        <button id="car">
+                            <i class="fa-solid fa-car"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="admin">
+            <p class="admin_text">Admin</p>
+            <div>Firstname:
+                <p id="admin_firstName"></p>
+            </div>
+            <div>Lastname:
+                <p id="admin_lastName"></p>
+            </div>
+            <div>Email:
+                <p id="admin_email"></p>
+            </div>
+            <div>Password:
+                <p id="admin_password"></p>
+            </div>
+        </div>
+        <div class="menu">
+            <div class="search">
+                <input type="text" id="search" class="searchInput" placeholder="Поиск по брендам. . . ">
+            </div>
+            <div class="cars" id="cars"></div>
+        </div>
+        <div id="usersData">
+            <div class="table">
+                <table id="user_table">
+                    <tbody>
+                        <tr>
+                            <th>Users</th>
+                        </tr>
+                    </tbody>
+                </table>
+                <table id="user_table_info" border="5" align="center">
+                    <tbody id="tbodyContainer">
+                        <tr>
+                            <th>ID</th>
+                            <th>Lastname</th>
+                            <th>Firstname</th>
+                            <th>Email</th>
+                            <th>Password</th>
+                            <th>Rol</th>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="settings">
+            <div class="create_post_element_div">
+                <form class="create_post_element">
+                    <h2>Создание поста</h2>
+                    <p>
+                        <label for="new-post-title">Бренд поста</label>
+                        <input type="text" id="new-post-title" name="brand">
+                    </p>
+                    <p>
+                        <label for="new-post-engine_type">Тип двигателя</label>
+                        <input type="text" id="new-post-engine_type" name="engine_type">
+                    </p>
+                    <p>
+                        <label for="new-post-engine_technologies">Технология двигателя</label>
+                        <input type="text" id="new-post-engine_technologies" name="engine_technologies">
+                    </p>
+                    <button type="submit">Сохронить пост на сервере</button>
+                </form>
+            </div>
+            <div class="delete_post_element">
+                <form id="delete_post_element_form">
+                    <label for="delete_post_element_id">Удаления машин по ID</label>
+                    <p>
+                        <input type="text" id="delete_post_element_id">
+                    </p>
+                    <button type="submit" id="delete_post_element_btn">Удалить</button>
+                </form>
+                <form id="delete_user_element_form">
+                    <label for="delete_user_element_id">Удаления пользовательей по ID</label>
+                    <p>
+                        <input type="text" id="delete_user_element_id">
+                    </p>
+                    <button type="submit" id="delete_user_element_btn">Удалить</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

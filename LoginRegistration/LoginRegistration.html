@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styleLoginRegistration.css">
+    <script src="./script/scripts.js" defer></script>
+    <title class="titleHead">Shop | Register</title>
+</head>
+
+<body>
+    <div class="register">
+        <h1>Register</h1>
+        <div class="helloWelcomeFlex">
+            <h1 class="helloWelcome">Welocome <h1 class="helloWelcomes"></h1>
+            </h1>
+        </div>
+        <form id="create_users">
+            <input type="text" placeholder="First name" class="firstName" id="firstName" maxlength="16"
+                name="firstName">
+            <input type="text" placeholder="Last name" class="lastName" id="lastName" name="lastName">
+            <input type="email" placeholder="Email" class="email" name="email" id="emailReg">
+            <input type="password" placeholder="Password" minlength="8" class="pass" name="password" id="passwordReg">
+            <button type="submit" id="register">Register</button>
+            <input type="text" name="rol" id="InputRol">
+            <p class=" log">Have an account <a href="#Register" onclick="getLogin()">Login</a></p>
+        </form>
+    </div>
+
+    <div class="login">
+        <h1>Login</h1>
+        <div class="helloWelcomeFlex">
+            <h1 class="helloWelcome">Hello <h1 class="helloWelcomes"></h1>
+            </h1>
+        </div>
+        <form>
+            <input type="email" placeholder="Email" class="email1" id="emailLog" maxlength="20">
+            <input type="password" placeholder="Password" class="pass" id="passwordLog">
+            <button type="button" id="login">Login</button>
+            <p class="log">Don't have an account?<br><a href="#Login" onclick="getRegister()">Register</a></p>
+        </form>
+    </div>
+</body>
+
+</html>

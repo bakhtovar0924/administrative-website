@@ -1,0 +1,1230 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "brand": "Toyota",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Toyota_GT86_–_Frontansicht%2C_17._September_2012%2C_Düsseldorf.jpg/1200px-Toyota_GT86_–_Frontansicht%2C_17._September_2012%2C_Düsseldorf.jpg",
+      "engine_type": [
+        "Бензиновый гибридный"
+      ],
+      "engine_displacement": "1.8-3.5 л",
+      "engine_power": "120-300 л.с.",
+      "engine_technologies": [
+        "VVT-i",
+        "Hybrid Synergy Drive",
+        "D-4S"
+      ],
+      "engine_resource": "300 000+ км",
+      "engine_fuel_consumption": "4.1-8.5 л/100км",
+      "transmission_type": "CVT, автоматическая",
+      "transmission_drive": "Передний, полный (AWD)",
+      "transmission_gears": "6-8 ступеней",
+      "transmission_differential_lock": "Электронная",
+      "suspension_front": "Независимая амортизационная стойка типа МакФерсон",
+      "suspension_rear": "Полузависимая торсионная балка или многорычажная",
+      "suspension_stabilizers": "Активные стабилизаторы поперечной устойчивости",
+      "suspension_ground_clearance": "160-220 мм",
+      "body_types": [
+        "Седан",
+        "Внедорожник",
+        "Хэтчбек",
+        "Минивэн",
+        "Пикап"
+      ],
+      "body_materials": [
+        "Высокопрочная сталь 980 МПа",
+        "Алюминиевые сплавы"
+      ],
+      "body_corrosion_protection": "Гальванизация + катодное грунтование",
+      "body_aerodynamics": "Cx 0.27-0.35",
+      "electrical_systems": [
+        "Toyota Safety Sense",
+        "Multimedia",
+        "Hybrid Management"
+      ],
+      "electrical_battery": "Гибридный Ni-MH 201.6V / Li-ion 259V",
+      "electrical_generator": "Высокоэффективный синхронный",
+      "interior_materials": [
+        "Софт-тач пластик",
+        "Кожа Наппа",
+        "Экокожа",
+        "Алюминий"
+      ],
+      "interior_options": [
+        "Вентилируемые сиденья",
+        "Подогрев руля",
+        "Панорамная крыша"
+      ],
+      "interior_multimedia": [
+        "12.3\" дисплей",
+        "JBL аудиосистема",
+        "Apple CarPlay"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "Автономное торможение",
+        "Ассистент движения"
+      ],
+      "safety_passive": [
+        "10 подушек безопасности",
+        "Усиленная конструкция кузова GOA"
+      ],
+      "safety_additional": [
+        "Система мониторинга слепых зон",
+        "Камера 360°"
+      ],
+      "ecology_co2_emissions": "95-150 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "85% перерабатываемых материалов",
+      "ecology_eco_materials": "Биопластик из сахарного тростника"
+    },
+    {
+      "id": "2",
+      "brand": "BMW",
+      "image": "https://wallpapers.com/images/hd/bmw-4-series-1600-x-900-wallpaper-elahxetth85qehsx.jpg",
+      "engine_type": [
+        "Бензиновый",
+        "дизельный",
+        "гибридный"
+      ],
+      "engine_displacement": "1.5-4.4 л",
+      "engine_power": "150-625 л.с.",
+      "engine_technologies": [
+        "TwinPower Turbo",
+        "Valvetronic",
+        "Double-VANOS"
+      ],
+      "engine_resource": "250 000+ км",
+      "engine_fuel_consumption": "5.8-11.5 л/100км",
+      "transmission_type": "Автоматическая Steptronic, роботизированная DCT",
+      "transmission_drive": "Задний, полный (xDrive)",
+      "transmission_gears": "8 ступеней Steptronic",
+      "transmission_differential_lock": "Электронная M Differential",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Многорычажная независимая",
+      "suspension_stabilizers": "Активные стабилизаторы",
+      "suspension_ground_clearance": "140-210 мм",
+      "body_types": [
+        "Седан",
+        "Купе",
+        "Кабриолет",
+        "Внедорожник"
+      ],
+      "body_materials": [
+        "Углепластик",
+        "Алюминий",
+        "Высокопрочная сталь"
+      ],
+      "body_corrosion_protection": "Катодное грунтование",
+      "body_aerodynamics": "Cx 0.22-0.32",
+      "electrical_systems": [
+        "iDrive",
+        "ConnectedDrive",
+        "Drive Assistant"
+      ],
+      "electrical_battery": "AGM, Li-ion для гибридов",
+      "electrical_generator": "Высокоамперный генератор",
+      "interior_materials": [
+        "Кожа Merino",
+        "Дерево",
+        "Алюминий",
+        "Carbon"
+      ],
+      "interior_options": [
+        "Комфортные сиденья",
+        "Двухзонный климат",
+        "Хэд-ап дисплей"
+      ],
+      "interior_multimedia": [
+        "10.25\" дисплей",
+        "Harman Kardon",
+        "Android Auto"
+      ],
+      "safety_active": [
+        "ABS",
+        "DSC",
+        "Круговой обзор",
+        "Ассистент парковки"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Система защиты пешеходов"
+      ],
+      "safety_additional": [
+        "Ночное видение",
+        "Система распознавания знаков"
+      ],
+      "ecology_co2_emissions": "120-250 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "95% перерабатываемых материалов",
+      "ecology_eco_materials": "Переработанные материалы"
+    },
+    {
+      "id": "3",
+      "brand": "Mercedes-Benz",
+      "image": "https://www.carscoops.com/wp-content/uploads/2019/09/6fa71b41-2020-mercedes-benz-c-class-australia-0.jpg",
+      "engine_type": [
+        "Бензиновый",
+        "дизельный",
+        "гибридный"
+      ],
+      "engine_displacement": "2.0-4.0 л",
+      "engine_power": "150-500 л.с.",
+      "engine_technologies": [
+        "Turbo",
+        "ECO Start/Stop",
+        "CAMTRONIC"
+      ],
+      "engine_resource": "280 000+ км",
+      "engine_fuel_consumption": "6.2-12.0 л/100км",
+      "transmission_type": "Автоматическая",
+      "transmission_drive": "Задний, полный (4MATIC)",
+      "transmission_gears": "9G-TRONIC",
+      "transmission_differential_lock": "Электронная",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Многорычажная независимая",
+      "suspension_stabilizers": "Активные стабилизаторы",
+      "suspension_ground_clearance": "150-230 мм",
+      "body_types": [
+        "Седан",
+        "Универсал",
+        "Внедорожник",
+        "Купе"
+      ],
+      "body_materials": [
+        "Алюминий",
+        "Высокопрочная сталь",
+        "Пластик"
+      ],
+      "body_corrosion_protection": "Оцинковка",
+      "body_aerodynamics": "Cx 0.23-0.30",
+      "electrical_systems": [
+        "MBUX",
+        "COMAND",
+        "Driver Assistance"
+      ],
+      "electrical_battery": "AGM, Li-ion для гибридов",
+      "electrical_generator": "Высокоамперный генератор",
+      "interior_materials": [
+        "Кожа Nappa",
+        "Дерево",
+        "Металл"
+      ],
+      "interior_options": [
+        "Массаж сидений",
+        "Ароматизация",
+        "Подсветка"
+      ],
+      "interior_multimedia": [
+        "12.3\" дисплей",
+        "Burmester",
+        "Apple CarPlay"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "PRE-SAFE",
+        "Автопилот"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Защита при опрокидывании"
+      ],
+      "safety_additional": [
+        "Система предотвращения столкновений",
+        "Ассистент смены полосы"
+      ],
+      "ecology_co2_emissions": "110-220 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "85% перерабатываемых материалов",
+      "ecology_eco_materials": "Натуральные материалы"
+    },
+    {
+      "id": "4",
+      "brand": "Audi",
+      "image": "https://i.pinimg.com/736x/ec/f0/cc/ecf0cc8b91b406fa60579e304668727b.jpg",
+      "engine_type": [
+        "Бензиновый TFSI",
+        "дизельный TDI",
+        "электрический"
+      ],
+      "engine_displacement": "1.4-4.0 л",
+      "engine_power": "150-600 л.с.",
+      "engine_technologies": [
+        "Turbo FSI",
+        "Cylinder on Demand",
+        "48V Mild Hybrid"
+      ],
+      "engine_resource": "270 000+ км",
+      "engine_fuel_consumption": "5.5-10.8 л/100км",
+      "transmission_type": "Механическая, автоматическая, S-tronic",
+      "transmission_drive": "Передний, полный quattro",
+      "transmission_gears": "7-8 ступеней",
+      "transmission_differential_lock": "Электронная блокировка",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Многорычажная независимая",
+      "suspension_stabilizers": "Активные стабилизаторы",
+      "suspension_ground_clearance": "145-220 мм",
+      "body_types": [
+        "Седан",
+        "Универсал",
+        "Внедорожник",
+        "Купе"
+      ],
+      "body_materials": [
+        "Алюминий",
+        "Высокопрочная сталь",
+        "Углепластик"
+      ],
+      "body_corrosion_protection": "Катодное грунтование",
+      "body_aerodynamics": "Cx 0.24-0.31",
+      "electrical_systems": [
+        "MMI",
+        "Audi Connect",
+        "Driver Assistance"
+      ],
+      "electrical_battery": "AGM, Li-ion для гибридов",
+      "electrical_generator": "Высокоамперный генератор",
+      "interior_materials": [
+        "Кожа Valcona",
+        "Дерево",
+        "Алюминий"
+      ],
+      "interior_options": [
+        "Вентилируемые сиденья",
+        "4-зонный климат",
+        "Виртуальный кокпит"
+      ],
+      "interior_multimedia": [
+        "12.3\" дисплей",
+        "Bang & Olufsen",
+        "Android Auto"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "Превентивная безопасность"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Усиленная конструкция кузова"
+      ],
+      "safety_additional": [
+        "Ассистент движения в пробке",
+        "Система ночного видения"
+      ],
+      "ecology_co2_emissions": "115-240 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "90% перерабатываемых материалов",
+      "ecology_eco_materials": "Экологичная кожа"
+    },
+    {
+      "id": "5",
+      "brand": "Volkswagen",
+      "image": "https://images.prismic.io/carwow/ZpqUKB5LeNNTxT_z_volkswagen-golf-2024-rhd-front34dynamic1.jpg",
+      "engine_type": [
+        "Бензиновый TSI",
+        "дизельный TDI"
+      ],
+      "engine_displacement": "1.0-2.0 л",
+      "engine_power": "90-220 л.с.",
+      "engine_technologies": [
+        "Turbo Stratified Injection",
+        "ACT"
+      ],
+      "engine_resource": "290 000+ км",
+      "engine_fuel_consumption": "4.7-8.9 л/100км",
+      "transmission_type": "Механическая, автоматическая DSG",
+      "transmission_drive": "Передний, полный",
+      "transmission_gears": "6-7 ступеней",
+      "transmission_differential_lock": "Электронная блокировка",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Полузависимая торсионная балка",
+      "suspension_stabilizers": "Стабилизаторы поперечной устойчивости",
+      "suspension_ground_clearance": "155-200 мм",
+      "body_types": [
+        "Хэтчбек",
+        "Седан",
+        "Универсал"
+      ],
+      "body_materials": [
+        "Высокопрочная сталь",
+        "Оцинкованная сталь"
+      ],
+      "body_corrosion_protection": "Гальванизация",
+      "body_aerodynamics": "Cx 0.28-0.33",
+      "electrical_systems": [
+        "MIB",
+        "Car-Net",
+        "Driver Assistance"
+      ],
+      "electrical_battery": "AGM",
+      "electrical_generator": "Стандартный генератор",
+      "interior_materials": [
+        "Качественный пластик",
+        "Ткань",
+        "Экокожа"
+      ],
+      "interior_options": [
+        "Подогрев сидений",
+        "Климат-контроль",
+        "Круиз-контроль"
+      ],
+      "interior_multimedia": [
+        "8\" дисплей",
+        "Discover Pro",
+        "Apple CarPlay"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "Парктроник"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Усиленные стойки"
+      ],
+      "safety_additional": [
+        "Ассистент усталости",
+        "Система контроля давления в шинах"
+      ],
+      "ecology_co2_emissions": "105-190 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "85% перерабатываемых материалов",
+      "ecology_eco_materials": "Переработанный пластик"
+    },
+    {
+      "id": "6",
+      "brand": "Ford",
+      "engine_type": [
+        "Бензиновый EcoBoost",
+        "дизельный"
+      ],
+      "engine_displacement": "1.0-3.5 л",
+      "engine_power": "85-250 л.с.",
+      "engine_technologies": [
+        "Turbo EcoBoost",
+        "Twin-Independent Variable Cam Timing"
+      ],
+      "engine_resource": "260 000+ км",
+      "engine_fuel_consumption": "5.2-11.3 л/100км",
+      "transmission_type": "Механическая, автоматическая",
+      "transmission_drive": "Передний, полный",
+      "transmission_gears": "6-10 ступеней",
+      "transmission_differential_lock": "Электронная блокировка",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Полунезависимая торсионная балка",
+      "suspension_stabilizers": "Стабилизаторы поперечной устойчивости",
+      "suspension_ground_clearance": "165-210 мм",
+      "body_types": [
+        "Хэтчбек",
+        "Седан",
+        "Внедорожник",
+        "Пикап"
+      ],
+      "body_materials": [
+        "Высокопрочная сталь",
+        "Алюминиевый сплав"
+      ],
+      "body_corrosion_protection": "Гальванизация",
+      "body_aerodynamics": "Cx 0.29-0.34",
+      "electrical_systems": [
+        "SYNC",
+        "FordPass Connect",
+        "Co-Pilot360"
+      ],
+      "electrical_battery": "AGM",
+      "electrical_generator": "Стандартный генератор",
+      "interior_materials": [
+        "Качественный пластик",
+        "Ткань",
+        "Кожа"
+      ],
+      "interior_options": [
+        "Подогрев сидений",
+        "Двухзонный климат",
+        "Круиз-контроль"
+      ],
+      "interior_multimedia": [
+        "8\" дисплей",
+        "B&O звук",
+        "Apple CarPlay"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "Ассистент движения"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Усиленная конструкция кузова"
+      ],
+      "safety_additional": [
+        "Система мониторинга слепых зон",
+        "Ассистент парковки"
+      ],
+      "ecology_co2_emissions": "110-200 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "80% перерабатываемых материалов",
+      "ecology_eco_materials": "Переработанные пластики"
+    },
+    {
+      "id": "7",
+      "brand": "Honda",
+      "engine_type": [
+        "Бензиновый",
+        "гибридный i-MMD"
+      ],
+      "engine_displacement": "1.0-3.5 л",
+      "engine_power": "80-300 л.с.",
+      "engine_technologies": [
+        "VTEC",
+        "Earth Dreams",
+        "i-VTEC"
+      ],
+      "engine_resource": "310 000+ км",
+      "engine_fuel_consumption": "4.3-9.2 л/100км",
+      "transmission_type": "Механическая, автоматическая, CVT",
+      "transmission_drive": "Передний, полный",
+      "transmission_gears": "6-10 ступеней",
+      "transmission_differential_lock": "Электронная блокировка",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Многорычажная независимая",
+      "suspension_stabilizers": "Стабилизаторы поперечной устойчивости",
+      "suspension_ground_clearance": "155-205 мм",
+      "body_types": [
+        "Седан",
+        "Хэтчбек",
+        "Внедорожник",
+        "Минивэн"
+      ],
+      "body_materials": [
+        "Высокопрочная сталь",
+        "Алюминиевый сплав"
+      ],
+      "body_corrosion_protection": "Оцинковка",
+      "body_aerodynamics": "Cx 0.26-0.32",
+      "electrical_systems": [
+        "Honda Sensing",
+        "Display Audio",
+        "Hybrid System"
+      ],
+      "electrical_battery": "Li-ion для гибридов",
+      "electrical_generator": "Высокоэффективный генератор",
+      "interior_materials": [
+        "Качественный пластик",
+        "Ткань",
+        "Кожа"
+      ],
+      "interior_options": [
+        "Подогрев сидений",
+        "Электропривод сидений",
+        "Климат-контроль"
+      ],
+      "interior_multimedia": [
+        "7\" дисплей",
+        "Premium Audio",
+        "Android Auto"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "Honda Sensing"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Усиленная конструкция кузова ACE"
+      ],
+      "safety_additional": [
+        "Камера заднего вида",
+        "Система предупреждения столкновений"
+      ],
+      "ecology_co2_emissions": "95-180 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "85% перерабатываемых материалов",
+      "ecology_eco_materials": "Биоматериалы"
+    },
+    {
+      "id": "8",
+      "brand": "Nissan",
+      "engine_type": [
+        "Бензиновый",
+        "дизельный",
+        "электрический"
+      ],
+      "engine_displacement": "1.0-3.8 л",
+      "engine_power": "90-400 л.с.",
+      "engine_technologies": [
+        "VC-Turbo",
+        "e-Power",
+        "Nismo"
+      ],
+      "engine_resource": "275 000+ км",
+      "engine_fuel_consumption": "4.9-12.5 л/100км",
+      "transmission_type": "Механическая, автоматическая, CVT",
+      "transmission_drive": "Передний, полный",
+      "transmission_gears": "6-7 ступеней",
+      "transmission_differential_lock": "Электронная блокировка",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Многорычажная независимая",
+      "suspension_stabilizers": "Стабилизаторы поперечной устойчивости",
+      "suspension_ground_clearance": "170-225 мм",
+      "body_types": [
+        "Седан",
+        "Хэтчбек",
+        "Внедорожник",
+        "Кроссовер"
+      ],
+      "body_materials": [
+        "Высокопрочная сталь",
+        "Оцинкованная сталь"
+      ],
+      "body_corrosion_protection": "Катодное грунтование",
+      "body_aerodynamics": "Cx 0.28-0.33",
+      "electrical_systems": [
+        "NissanConnect",
+        "ProPILOT",
+        "Nissan Safety Shield"
+      ],
+      "electrical_battery": "Li-ion для электромобилей",
+      "electrical_generator": "Стандартный генератор",
+      "interior_materials": [
+        "Качественный пластик",
+        "Ткань",
+        "Кожа"
+      ],
+      "interior_options": [
+        "Подогрев сидений",
+        "Климат-контроль",
+        "Ключ-карта"
+      ],
+      "interior_multimedia": [
+        "8\" дисплей",
+        "Bose звук",
+        "Apple CarPlay"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "Nissan Safety Shield"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Усиленная конструкция кузова"
+      ],
+      "safety_additional": [
+        "Система экстренного торможения",
+        "Контроль усталости водителя"
+      ],
+      "ecology_co2_emissions": "100-210 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "85% перерабатываемых материалов",
+      "ecology_eco_materials": "Экологичные материалы"
+    },
+    {
+      "id": "9",
+      "brand": "Hyundai",
+      "engine_type": [
+        "Бензиновый",
+        "дизельный",
+        "гибридный",
+        "электрический"
+      ],
+      "engine_displacement": "1.0-2.5 л",
+      "engine_power": "100-280 л.с.",
+      "engine_technologies": [
+        "CVVD",
+        "Smartstream",
+        "HTRAC"
+      ],
+      "engine_resource": "285 000+ км",
+      "engine_fuel_consumption": "4.8-9.6 л/100км",
+      "transmission_type": "Механическая, автоматическая, DCT",
+      "transmission_drive": "Передний, полный",
+      "transmission_gears": "6-8 ступеней",
+      "transmission_differential_lock": "Электронная блокировка",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Многорычажная независимая",
+      "suspension_stabilizers": "Стабилизаторы поперечной устойчивости",
+      "suspension_ground_clearance": "160-195 мм",
+      "body_types": [
+        "Седан",
+        "Хэтчбек",
+        "Внедорожник",
+        "Кроссовер"
+      ],
+      "body_materials": [
+        "Высокопрочная сталь",
+        "Алюминиевый сплав"
+      ],
+      "body_corrosion_protection": "Гальванизация",
+      "body_aerodynamics": "Cx 0.27-0.31",
+      "electrical_systems": [
+        "Bluelink",
+        "SmartSense",
+        "Infotainment"
+      ],
+      "electrical_battery": "Li-ion для гибридов и электромобилей",
+      "electrical_generator": "Стандартный генератор",
+      "interior_materials": [
+        "Качественный пластик",
+        "Ткань",
+        "Кожа"
+      ],
+      "interior_options": [
+        "Вентилируемые сиденья",
+        "Подогрев руля",
+        "Беспроводная зарядка"
+      ],
+      "interior_multimedia": [
+        "10.25\" дисплей",
+        "Krell звук",
+        "Android Auto"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "SmartSense"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Усиленная конструкция кузова"
+      ],
+      "safety_additional": [
+        "Ассистент движения в пробке",
+        "Система предотвращения столкновений"
+      ],
+      "ecology_co2_emissions": "98-185 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "90% перерабатываемых материалов",
+      "ecology_eco_materials": "Биопластик"
+    },
+    {
+      "id": "10",
+      "brand": "Kia",
+      "engine_type": [
+        "Бензиновый",
+        "дизельный",
+        "гибридный",
+        "электрический"
+      ],
+      "engine_displacement": "1.0-3.5 л",
+      "engine_power": "100-400 л.с.",
+      "engine_technologies": [
+        "GDI",
+        "CRDi",
+        "HTRAC"
+      ],
+      "engine_resource": "280 000+ км",
+      "engine_fuel_consumption": "5.0-10.2 л/100км",
+      "transmission_type": "Механическая, автоматическая, DCT",
+      "transmission_drive": "Передний, полный",
+      "transmission_gears": "6-8 ступеней",
+      "transmission_differential_lock": "Электронная блокировка",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Многорычажная независимая",
+      "suspension_stabilizers": "Стабилизаторы поперечной устойчивости",
+      "suspension_ground_clearance": "165-200 мм",
+      "body_types": [
+        "Седан",
+        "Хэтчбек",
+        "Внедорожник",
+        "Минивэн"
+      ],
+      "body_materials": [
+        "Высокопрочная сталь",
+        "Алюминиевый сплав"
+      ],
+      "body_corrosion_protection": "Гальванизация",
+      "body_aerodynamics": "Cx 0.29-0.34",
+      "electrical_systems": [
+        "UVO",
+        "Drive Wise",
+        "Infotainment"
+      ],
+      "electrical_battery": "Li-ion для гибридов и электромобилей",
+      "electrical_generator": "Стандартный генератор",
+      "interior_materials": [
+        "Качественный пластик",
+        "Ткань",
+        "Кожа"
+      ],
+      "interior_options": [
+        "Вентилируемые сиденья",
+        "Подогрев руля",
+        "Панорамная крыша"
+      ],
+      "interior_multimedia": [
+        "10.25\" дисплей",
+        "Harmon Kardon",
+        "Apple CarPlay"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "Kia Drive Wise"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Усиленная конструкция кузова"
+      ],
+      "safety_additional": [
+        "Система мониторинга слепых зон",
+        "Ассистент парковки"
+      ],
+      "ecology_co2_emissions": "102-195 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "85% перерабатываемых материалов",
+      "ecology_eco_materials": "Переработанные материалы"
+    },
+    {
+      "id": "11",
+      "brand": "Volvo",
+      "engine_type": [
+        "Бензиновый",
+        "дизельный",
+        "гибридный",
+        "электрический"
+      ],
+      "engine_displacement": "2.0-3.0 л",
+      "engine_power": "150-400 л.с.",
+      "engine_technologies": [
+        "Drive-E",
+        "Twin Engine",
+        "Polestar"
+      ],
+      "engine_resource": "265 000+ км",
+      "engine_fuel_consumption": "5.5-10.8 л/100км",
+      "transmission_type": "Автоматическая",
+      "transmission_drive": "Передний, полный",
+      "transmission_gears": "8 ступеней",
+      "transmission_differential_lock": "Электронная блокировка",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Интегральная связь",
+      "suspension_stabilizers": "Активные стабилизаторы",
+      "suspension_ground_clearance": "155-210 мм",
+      "body_types": [
+        "Седан",
+        "Универсал",
+        "Внедорожник",
+        "Кроссовер"
+      ],
+      "body_materials": [
+        "Бороскановая сталь",
+        "Алюминий"
+      ],
+      "body_corrosion_protection": "Катодное грунтование",
+      "body_aerodynamics": "Cx 0.26-0.32",
+      "electrical_systems": [
+        "Sensus",
+        "Pilot Assist",
+        "City Safety"
+      ],
+      "electrical_battery": "Li-ion для гибридов и электромобилей",
+      "electrical_generator": "Высокоамперный генератор",
+      "interior_materials": [
+        "Кожа",
+        "Дерево",
+        "Шерсть"
+      ],
+      "interior_options": [
+        "Массаж сидений",
+        "4-зонный климат",
+        "Подогрев всех сидений"
+      ],
+      "interior_multimedia": [
+        "9\" дисплей",
+        "Bowers & Wilkins",
+        "Android Auto"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "Pilot Assist",
+        "City Safety"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Система защиты при боковом ударе"
+      ],
+      "safety_additional": [
+        "Система предотвращения столкновений",
+        "Защита пешеходов"
+      ],
+      "ecology_co2_emissions": "95-180 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "95% перерабатываемых материалов",
+      "ecology_eco_materials": "Натуральные и переработанные материалы"
+    },
+    {
+      "id": "12",
+      "brand": "Lexus",
+      "engine_type": [
+        "Бензиновый",
+        "гибридный"
+      ],
+      "engine_displacement": "2.0-5.0 л",
+      "engine_power": "200-600 л.с.",
+      "engine_technologies": [
+        "D-4S",
+        "Hybrid Synergy",
+        "VVT-iE"
+      ],
+      "engine_resource": "320 000+ км",
+      "engine_fuel_consumption": "4.8-14.5 л/100км",
+      "transmission_type": "Автоматическая",
+      "transmission_drive": "Задний, полный",
+      "transmission_gears": "8-10 ступеней",
+      "transmission_differential_lock": "Электронная TORSEN",
+      "suspension_front": "Двойной поперечный рычаг",
+      "suspension_rear": "Многорычажная независимая",
+      "suspension_stabilizers": "Активные стабилизаторы",
+      "suspension_ground_clearance": "150-220 мм",
+      "body_types": [
+        "Седан",
+        "Внедорожник",
+        "Купе",
+        "Кабриолет"
+      ],
+      "body_materials": [
+        "Алюминий",
+        "Высокопрочная сталь"
+      ],
+      "body_corrosion_protection": "Катодное грунтование",
+      "body_aerodynamics": "Cx 0.25-0.33",
+      "electrical_systems": [
+        "Lexus Safety System+",
+        "Remote Touch",
+        "Multimedia"
+      ],
+      "electrical_battery": "Li-ion для гибридов",
+      "electrical_generator": "Высокоамперный генератор",
+      "interior_materials": [
+        "Кожа Semi-Aniline",
+        "Дерево",
+        "Алюминий"
+      ],
+      "interior_options": [
+        "Вентилируемые сиденья",
+        "4-зонный климат",
+        "Панорамная крыша"
+      ],
+      "interior_multimedia": [
+        "12.3\" дисплей",
+        "Mark Levinson",
+        "Apple CarPlay"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "Lexus Safety System+"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Усиленная конструкция кузова"
+      ],
+      "safety_additional": [
+        "Система ночного видения",
+        "Ассистент движения по полосе"
+      ],
+      "ecology_co2_emissions": "105-250 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "90% перерабатываемых материалов",
+      "ecology_eco_materials": "Экологичная кожа"
+    },
+    {
+      "id": "13",
+      "brand": "Mazda",
+      "engine_type": [
+        "Бензиновый SkyActiv",
+        "дизельный"
+      ],
+      "engine_displacement": "1.5-2.5 л",
+      "engine_power": "100-250 л.с.",
+      "engine_technologies": [
+        "SkyActiv-G",
+        "SPCCI",
+        "i-Activ AWD"
+      ],
+      "engine_resource": "295 000+ км",
+      "engine_fuel_consumption": "4.8-8.9 л/100км",
+      "transmission_type": "Механическая, автоматическая",
+      "transmission_drive": "Передний, полный",
+      "transmission_gears": "6 ступеней",
+      "transmission_differential_lock": "Электронная блокировка",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Многорычажная независимая",
+      "suspension_stabilizers": "Стабилизаторы поперечной устойчивости",
+      "suspension_ground_clearance": "155-215 мм",
+      "body_types": [
+        "Хэтчбек",
+        "Седан",
+        "Внедорожник",
+        "Купе"
+      ],
+      "body_materials": [
+        "Высокопрочная сталь",
+        "Алюминий"
+      ],
+      "body_corrosion_protection": "Оцинковка",
+      "body_aerodynamics": "Cx 0.26-0.33",
+      "electrical_systems": [
+        "Mazda Connect",
+        "i-Activsense",
+        "Infotainment"
+      ],
+      "electrical_battery": "AGM",
+      "electrical_generator": "Стандартный генератор",
+      "interior_materials": [
+        "Качественный пластик",
+        "Ткань",
+        "Кожа"
+      ],
+      "interior_options": [
+        "Подогрев сидений",
+        "Двухзонный климат",
+        "Круиз-контроль"
+      ],
+      "interior_multimedia": [
+        "8.8\" дисплей",
+        "Bose звук",
+        "Apple CarPlay"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "i-Activsense"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Усиленная конструкция кузова"
+      ],
+      "safety_additional": [
+        "Система мониторинга слепых зон",
+        "Ассистент движения по полосе"
+      ],
+      "ecology_co2_emissions": "100-175 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "85% перерабатываемых материалов",
+      "ecology_eco_materials": "Экологичные материалы"
+    },
+    {
+      "id": "14",
+      "brand": "Subaru",
+      "engine_type": [
+        "Бензиновый боксер",
+        "гибридный"
+      ],
+      "engine_displacement": "1.6-2.5 л",
+      "engine_power": "115-300 л.с.",
+      "engine_technologies": [
+        "Boxer",
+        "Symmetrical AWD",
+        "Turbo"
+      ],
+      "engine_resource": "270 000+ км",
+      "engine_fuel_consumption": "6.2-11.8 л/100км",
+      "transmission_type": "Механическая, автоматическая CVT",
+      "transmission_drive": "Полный Symmetrical AWD",
+      "transmission_gears": "5-6 ступеней",
+      "transmission_differential_lock": "Механическая блокировка",
+      "suspension_front": "Независимая амортизационная стойка",
+      "suspension_rear": "Двойной поперечный рычаг",
+      "suspension_stabilizers": "Стабилизаторы поперечной устойчивости",
+      "suspension_ground_clearance": "200-220 мм",
+      "body_types": [
+        "Седан",
+        "Универсал",
+        "Внедорожник",
+        "Кроссовер"
+      ],
+      "body_materials": [
+        "Высокопрочная сталь",
+        "Оцинкованная сталь"
+      ],
+      "body_corrosion_protection": "Гальванизация",
+      "body_aerodynamics": "Cx 0.29-0.35",
+      "electrical_systems": [
+        "Starlink",
+        "EyeSight",
+        "Infotainment"
+      ],
+      "electrical_battery": "AGM",
+      "electrical_generator": "Стандартный генератор",
+      "interior_materials": [
+        "Качественный пластик",
+        "Ткань",
+        "Кожа"
+      ],
+      "interior_options": [
+        "Подогрев сидений",
+        "Климат-контроль",
+        "Электропривод сидений"
+      ],
+      "interior_multimedia": [
+        "8\" дисплей",
+        "Harman Kardon",
+        "Apple CarPlay"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "EyeSight"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Усиленная конструкция кузова"
+      ],
+      "safety_additional": [
+        "Система предотвращения столкновений",
+        "Ассистент движения по полосе"
+      ],
+      "ecology_co2_emissions": "120-210 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "85% перерабатываемых материалов",
+      "ecology_eco_materials": "Переработанные материалы"
+    },
+    {
+      "id": "15",
+      "brand": "Tesla",
+      "engine_type": [
+        "Электрический"
+      ],
+      "engine_displacement": "N/A",
+      "engine_power": "300-1000 л.с.",
+      "engine_technologies": [
+        "Dual Motor",
+        "Plaid",
+        "Autopilot"
+      ],
+      "engine_resource": "1 600 000 км (батарея)",
+      "engine_fuel_consumption": "15-20 кВтч/100км",
+      "transmission_type": "Односкоростная редукторная",
+      "transmission_drive": "Задний, полный",
+      "transmission_gears": "1 скорость",
+      "transmission_differential_lock": "Электронная блокировка",
+      "suspension_front": "Независимая пневматическая",
+      "suspension_rear": "Независимая пневматическая",
+      "suspension_stabilizers": "Активные стабилизаторы",
+      "suspension_ground_clearance": "140-170 мм",
+      "body_types": [
+        "Седан",
+        "Внедорожник",
+        "Кроссовер"
+      ],
+      "body_materials": [
+        "Алюминий",
+        "Сталь",
+        "Стекло"
+      ],
+      "body_corrosion_protection": "Анодирование",
+      "body_aerodynamics": "Cx 0.21-0.24",
+      "electrical_systems": [
+        "Autopilot",
+        "Full Self-Driving",
+        "Tesla Infotainment"
+      ],
+      "electrical_battery": "Li-ion 60-100 кВтч",
+      "electrical_generator": "N/A",
+      "interior_materials": [
+        "Веган-кожа",
+        "Стекло",
+        "Металл"
+      ],
+      "interior_options": [
+        "Подогрев всех сидений",
+        "Панорамная крыша",
+        "Игровая система"
+      ],
+      "interior_multimedia": [
+        "15\" дисплей",
+        "Premium Audio",
+        "Netflix"
+      ],
+      "safety_active": [
+        "ABS",
+        "ESP",
+        "Autopilot"
+      ],
+      "safety_passive": [
+        "Подушки безопасности",
+        "Усиленная конструкция кузова"
+      ],
+      "safety_additional": [
+        "Full Self-Driving",
+        "Система предотвращения столкновений"
+      ],
+      "ecology_co2_emissions": "0 г/км",
+      "ecology_eco_class": "Евро-6",
+      "ecology_recycling": "100% перерабатываемых материалов",
+      "ecology_eco_materials": "Веган-материалы"
+    }
+  ],
+  "users": [
+    {
+      "id": "d37f",
+      "firstName": "Usmonov",
+      "lastName": "Bakhtovar",
+      "email": "bakhtovar@gmail.com",
+      "password": "BAKHTOVAR",
+      "rol": "Admin"
+    },
+    {
+      "id": "df5c",
+      "firstName": "qwerewr",
+      "lastName": "ewrqwre",
+      "email": "qwreqer@qwrewe",
+      "password": "werewrwer",
+      "rol": "Users"
+    },
+    {
+      "id": "bc0d",
+      "firstName": "qwery",
+      "lastName": "qwerty",
+      "email": "qwerty@qwerty",
+      "password": "qwerty",
+      "rol": "Users"
+    },
+    {
+      "id": "1d4b",
+      "firstName": "qwery",
+      "lastName": "qwerty",
+      "email": "qwerty@qwerty",
+      "password": "sdgsdfgfdgfdg",
+      "rol": "Users"
+    },
+    {
+      "id": "7abe",
+      "firstName": "dv",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "rol": "Users"
+    },
+    {
+      "id": "6f4f",
+      "firstName": "qwery",
+      "lastName": "wqerer",
+      "email": "",
+      "password": "",
+      "rol": "Users"
+    },
+    {
+      "id": "a3c9",
+      "firstName": "dfsgdfg",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "rol": "Users"
+    },
+    {
+      "id": "9bf0",
+      "firstName": "xvcxcv",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "rol": "Users"
+    }
+  ]
+}
